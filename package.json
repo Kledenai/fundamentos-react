@@ -4,7 +4,7 @@
   "description": "Curso básico para já começar a mexer com react usando webpack e criando seus primeiros componentes",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "webpack-dev-server --progress --colors --inline --hot"
   },
   "repository": {
     "type": "git",
